@@ -68,4 +68,29 @@ div.WhiteBox {
     z-index:2;
     margin-top: -462px;
     position: relative;
+    padding: 52px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
 }
+
+div.YellowRectangleContainer img {
+    position:relative;
+    z-index:3;
+    width: 744px;
+    height: 277px;
+}
+
+div.YellowSquareContainer {
+    width: min-content;
+    top: -13px;
+    position: relative;
+}
+div.YellowSquareContainer img {
+    position:relative;
+    z-index:3;
+    width: 333px;
+    height: 311px;
+}
+
+
