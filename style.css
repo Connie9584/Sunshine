@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans",sans-serif;
+}
+
+header {
+    display:flex;
+    justify-content:space-between;
+    margin:10px;
+}
+
+.LogoImgContainer img{
+    width:200px;
+}
