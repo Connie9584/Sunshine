@@ -49,5 +49,23 @@ div.HeaderImgContainer img {
     width:100vw;
     object-position: 0px -110px;
 
+}
 
+div.HeartsAndCirclesBackgroundContainer {
+    width:100vw;
+}
+
+div.HeartsAndCirclesBackgroundContainer img {
+    width:100vw;
+    object-fit:cover;
+    object-position: 0px -19px;
+}
+
+div.WhiteBox {
+    background-color:white;
+    width:100vw;
+    height: 350px;
+    z-index:2;
+    margin-top: -462px;
+    position: relative;
 }
