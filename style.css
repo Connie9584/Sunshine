@@ -19,10 +19,10 @@ nav {
     display:flex;
     align-items:flex-end;
 }
+
 nav ul {
     display:flex;
     flex-direction:row;
-    
 }
 
 nav ul li {
@@ -35,4 +35,19 @@ nav ul li a {
     color:black;
     font-weight:700;
     font-size: larger;
+}
+
+div.HeaderImgContainer {
+    width:100vw;
+    height:380px;
+    display:flex;
+    
+}
+
+div.HeaderImgContainer img {
+    object-fit:cover;
+    width:100vw;
+    object-position: 0px -110px;
+
+
 }
