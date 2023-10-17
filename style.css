@@ -14,3 +14,25 @@ header {
 .LogoImgContainer img{
     width:200px;
 }
+
+nav {
+    display:flex;
+    align-items:flex-end;
+}
+nav ul {
+    display:flex;
+    flex-direction:row;
+    
+}
+
+nav ul li {
+    padding:10px;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration:none;
+    color:black;
+    font-weight:700;
+    font-size: larger;
+}
