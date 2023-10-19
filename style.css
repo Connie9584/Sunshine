@@ -62,7 +62,7 @@ div.HeartsAndCirclesBackgroundContainer img {
 }
 
 div.WhiteBox {
-    background-color:green;
+    background-color:white;
     width:100vw;
     height: 350px;
     z-index:2;
