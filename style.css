@@ -81,6 +81,11 @@ div.YellowRectangleContainer img {
     height: 277px;
 }
 
+div.YellowRectangleContainer {
+    z-index: -1;
+    position: relative;
+}
+
 div.YellowSquareContainer {
     width: min-content;
     top: -13px;
@@ -95,7 +100,6 @@ div.YellowSquareContainer img {
 
 p.WhoWeAre {
     margin-top:-200px;
-
 }
 
 span.thick {
