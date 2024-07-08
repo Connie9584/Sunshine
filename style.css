@@ -93,6 +93,10 @@ div.YellowSquareContainer img {
     height: 311px;
 }
 
+p.WhoWeAre {
+    margin-top:-200px;
+
+}
 
 span.thick {
     display:inline-block;
