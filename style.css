@@ -87,9 +87,11 @@ div.YellowRectangleContainer {
 }
 
 div.YellowSquareContainer {
-    width: min-content;
-    top: -13px;
+    top: -245px;
     position: relative;
+    z-index: -1;
+    justify-content: flex-end;
+    display: flex;
 }
 div.YellowSquareContainer img {
     position:relative;
