@@ -100,3 +100,8 @@ div.WhoWeAreTextContainer {
     width:50%;
     padding:20px;
 }
+
+span.thick {
+    display:flex;
+    font-weight:bold;
+}
